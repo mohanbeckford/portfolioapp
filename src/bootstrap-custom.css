@@ -1,0 +1,7 @@
+
+$theme-colors: (
+  primary: #FFD700,
+  secondary: #ffd700,
+);
+
+@import '~bootstrap/scss/bootstrap';
